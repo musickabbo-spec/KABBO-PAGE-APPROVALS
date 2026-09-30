@@ -1,0 +1,3 @@
+# KABBO-PAGE public approval list.
+# Add one 32-character installation ID per line to approve that installation.
+# Remove an ID to revoke it; changes are checked on app launch or Check again.
