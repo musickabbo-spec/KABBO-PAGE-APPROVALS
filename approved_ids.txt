@@ -2,3 +2,4 @@
 # Add one 32-character installation ID per line to approve that installation.
 # Remove an ID to revoke it; changes are checked on app launch or Check again.
 5bbe6f71e14f4dd48a0a48767d681507
+15fa102269324ec19cc011fb1994f023
